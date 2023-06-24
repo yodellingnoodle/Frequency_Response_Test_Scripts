@@ -1,5 +1,6 @@
 # frequency_response_testing
 DAQ command script and plotting scripts used (MATLAB)
+
 Imperial College London, Interventional Systems Neuroscience Lab (Grossman Lab)
 
 This repository contains the MATLAB (R2022b) scripts and functions used as part of my BSc project on neuronal frequency response.
